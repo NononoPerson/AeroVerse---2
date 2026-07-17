@@ -1,0 +1,15 @@
+:root{
+
+    --bg:#081018;
+    --panel:#102D45;
+    --accent:#00BFFF;
+    --green:#00FF99;
+    --warning:#FFD000;
+    --danger:#FF4D4D;
+    --text:#EAF6FF;
+
+    --radius:16px;
+
+    --shadow:0 10px 30px rgba(0,0,0,.4);
+
+}
