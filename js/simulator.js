@@ -1138,9 +1138,12 @@ worldMap.position.set(0, 490, 0);
    LOAD AIRCRAFT
 ========================================================== */
 
-loader.load(
 
-    "/models/Airplane.glb",
+
+
+
+
+loader.load("/models/Airplane.glb",
 
     (gltf) => {
 
